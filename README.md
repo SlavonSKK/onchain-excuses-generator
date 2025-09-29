@@ -5,6 +5,5 @@ git init
 git add .
 git commit -m "initial commit: on-chain excuses generator"
 git branch -M main
-git remote add origin https://github.com/ТВОЙ_НИК/onchain-excuses-generator.git
+git remote add origin https://github.com/SLAVONSKK/onchain-excuses-generator.git
 git push -u origin main
-
